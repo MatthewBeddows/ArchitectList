@@ -1,5 +1,3 @@
 [architectName] A4IM Project Architect
 [url] https://github.com/MatthewBeddows/A4IM-ProjectArchitect
 
-[architectName] COSI Architect22
-[url] https://github.com/MatthewBeddows/COSI-Architect
