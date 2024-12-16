@@ -6,3 +6,5 @@
 [architectName] COSI Architect
 [url] https://github.com/MatthewBeddows/COSI-Architect
 
+[architectName] COSI Architect2
+[url] https://github.com/MatthewBeddows/COSI-Architect
