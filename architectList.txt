@@ -3,3 +3,6 @@
 
 [architectName] COSI Architect
 [url] https://github.com/MatthewBeddows/COSI-Architect
+
+[architectName] A4IM Scanner
+[url] https://github.com/MatthewBeddows/A4IMScanner
