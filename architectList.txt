@@ -3,9 +3,3 @@
 
 [architectName] A4IM Project Architect DUMMY
 [url] https://github.com/MatthewBeddows/A4IM-ProjectArchitect
-
-[architectName] COSI Architect DUMMY
-[url] https://github.com/MatthewBeddows/COSI-Architect
-
-[architectName] A4IM Scanner OLD
-[url] https://github.com/MatthewBeddows/A4IMScanner
